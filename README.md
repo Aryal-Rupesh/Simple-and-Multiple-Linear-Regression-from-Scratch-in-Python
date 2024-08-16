@@ -1,1 +1,1 @@
-# Simple-and-Multiple-Linear-Regression-from-Scratch-in-Python
+This repository demonstrates the implementation of both simple and multiple linear regression algorithms from scratch using Python. It is aimed at providing a deeper understanding of the underlying mathematics and computational steps involved in linear regression. By not relying on machine learning libraries like scikit-learn, the code offers a clear, step-by-step explanation of the regression process, from calculating the coefficients to predicting outcomes.
